@@ -1,6 +1,7 @@
-function Memories() {
+function Pictures() {
   return (
     <div className="aboutHer-container">
+      {/* <img class="myPhoto" src={photo}></img> */}
       <p className="grandmaBio">
         Her name was Glenda Martin or grandma to me. Here are a few things said
         about her from her children
@@ -29,4 +30,4 @@ function Memories() {
     </div>
   );
 }
-export default Memories;
+export default Pictures;
